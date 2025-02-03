@@ -1,0 +1,282 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 100%;
+    width: 1220px;
+}
+
+.header-wrapper {
+    background-color: black;
+    padding: 33px;
+    width: 1900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+a {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 7.4px 0px #FFFFFF;
+
+}
+
+.por {
+    position: relative;
+    right: 600px;
+}
+
+.eshak {
+    background-repeat: no-repeat;
+height: 797px;
+    background-size: cover;
+    background-position: top center;
+    background-color: aqua;
+    
+}
+
+.posi {
+  
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+background: #FFFFFF;
+width: 602px;
+height: 75px;
+margin: 0 auto;
+border-radius: 30px ;
+position: relative;
+bottom: 700px;
+text-align: center;
+box-shadow: 16px 18px 28px 0px #FFFFFF40;
+}
+
+
+
+.parent {
+    display: flex;
+    justify-content: space-evenly;
+}
+ .parent1 {
+    display: flex;
+    gap: 30px;
+    position: relative;
+ }
+
+ .box1 {
+background-color: red;
+position: relative;
+bottom: 700px;
+left: 100px;
+color: #FFFFFF;
+width: 367px;
+height: 290px;
+font-size: 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+ }
+
+ .box2 {
+    
+    width: 367px;
+   height: 290px;
+ background-color: green;
+ position: absolute;
+ bottom: 400px;
+ 
+color: #FFFFFF;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+display: flex;
+justify-content: center;
+align-items: center; 
+ }
+
+ .parent2 {
+    display: flex;
+    justify-content: center;
+   position: relative;
+ }
+
+ .box11 {
+    background-color: red;
+    position: absolute ;
+    bottom: 750px;
+  border-radius: 100px;
+   color: #FFFFFF;
+   width: 411px;
+   height: 209px;
+   font-size: 24px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+              
+ .box22 {
+    width: 367px;
+   height: 290px;
+ background-color: green;
+ position: absolute;
+ bottom: 400px;
+color: #FFFFFF;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+display: flex;
+justify-content: center;
+align-items: center; 
+ }
+
+ .parent3 {
+    display: flex;
+    position: relative;
+ }
+
+ .box111 {  
+    width: 367px;
+   height: 290px;
+ background-color: red;
+  position: absolute;
+  right: 50px;
+  bottom: 700px;
+color: #FFFFFF;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+display: flex;
+justify-content: center;
+align-items: center; 
+ }
+ 
+
+ .box222 {
+    width: 367px;
+    height: 290px;
+  background-color: green;
+   position: absolute;
+   bottom: 400px;
+   left: 1200px;
+   
+ color: #FFFFFF;
+ font-size: 24px;
+ font-weight: 700;
+ line-height: 29.05px;
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ }
+
+ main {
+  background-color: black;
+ }
+
+ .info {
+  width: 602px;
+  background-color: white;
+  margin: 0 auto;
+  position: relative;
+  bottom: 300px;
+ height: 75px;
+ text-align: center;
+ border-radius: 30px ;
+ font-size: 64px;
+ font-weight: 700;
+ line-height: 77.45px;
+ box-shadow: 16px 18px 28px 0px #FFFFFF40;
+ }
+
+ .dadasi {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  position: relative;
+  bottom: 100px;
+ }
+
+ .mini {
+  background: #7B2525;
+  width: 368px;
+  height: 332px;
+ 
+ }
+
+ .mini1 {
+  background: #7B2525;
+  width: 368px;
+  height: 332px;
+ 
+ }
+ .mini2 {
+  background: #7B2525;
+  width: 368px;
+  height: 332px;
+ }
+
+ .h11 {
+  color: white;
+  text-align: center;
+   
+  font-weight: 700;
+  line-height: 38.73px;
+ }
+
+ .pn {
+  color: white;
+  text-align: center;
+position: relative;
+top: 40px;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+
+ }
+
+ .img1 {
+  position: relative;
+  top: 50px;
+  left: 20px;
+ }
+
+ .header-wrapper00 {
+  background-color: black;
+  padding: 33px;
+  width: 1900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+ .er {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+ }
+
+ .aniki {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 7.4px 0px #FFFFFF;
+ }
+ .ty {
+  position: relative;
+  right: 700px;
+ }
